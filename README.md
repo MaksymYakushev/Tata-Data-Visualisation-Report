@@ -4,7 +4,13 @@
 
 ## Table of Contents
 - [Task 1: Framing the Business Scenario](#task-1-framing-the-business-scenario)
-  - [Here is the background information on your task](#here-is-the-background-information-on-your-task) 
+  - [Here is the background information on your task](#here-is-the-background-information-on-your-task)
+  - [Here is your task](#here-is-your-task)
+  - [4 questions for the CEO and 4 questions for the CMO](#4-questions-for-the-ceo-and-4-questions-for-the-cmo)
+- [Task 2: Choosing the Right Visuals](#task-2-choosing-the-right-visuals)
+- [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
+- [Task 4: Communicating Insights and Analysis](#task-4-communicating-insights-and-analysis)
+
 
 Certificate IN PROGRESS
 
