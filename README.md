@@ -3,8 +3,8 @@
 <img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/tata-logo.jpg" width="420" height="200">   
 
 ## Table of Contents
-- [Task 1: Framing the Business Scenario](#task-1:-framing-the-business-scenario)
-  - [Here is the background information on your task](#here-is-the-background-information-on-your-task)
+- [Task 1: Framing the Business Scenario](#task-1-framing-the-business-scenario)
+  - [Here is the background information on your task](#here-is-the-background-information-on-your-task) 
 
 Certificate IN PROGRESS
 
