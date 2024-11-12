@@ -2,6 +2,10 @@
 
 <img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/tata-logo.jpg" width="420" height="200">   
 
+## Table of Contents
+- [Task 1: Framing the Business Scenario](#task-1:-framing-the-business-scenario)
+  - [Here is the background information on your task](#here-is-the-background-information-on-your-task)
+
 Certificate IN PROGRESS
 
 Всіх вітаю! Цей проєкт є веб-стажуванням у компанії Tata Group. Це вже не перше моє веб-стажування на Forage. Бажаю приємного ознайомлення з проeктом!
@@ -27,3 +31,10 @@ Certificate IN PROGRESS
 Сформулюймо 4 питання, які зададуть кожен з лідерів бізнесу та на які вони захочуть отримати відповіді. Переконаймося, що питання відрізняються, оскільки і CEO, і CMO розглядають бізнесові рішення через різні призми.
 
 ### 4 questions for the CEO and 4 questions for the CMO
+
+## Task 2: Choosing the Right Visuals
+
+## Task 3: Creating Effective Visuals
+
+## Task 4: Communicating Insights and Analysis
+
