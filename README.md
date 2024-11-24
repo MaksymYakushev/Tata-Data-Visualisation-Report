@@ -38,6 +38,24 @@ Certificate IN PROGRESS
 
 ### 4 questions for the CEO and 4 questions for the CMO
 
+**4 questions for the CEO**
+1. Який загальний дохід компанії за фіксований період? Як він розподіляється між основними категоріями продуктів? (What is the company’s total revenue for a fixed period? How is it distributed among the main product categories?)
+   
+2. Які країни приносять найбільший дохід? Чи є регіони з низьким доходом, де можна посилити продажі? (Which countries generate the highest revenue? Are there regions with low revenue where sales can be improved?)
+   
+3. Які товари мають найбільший попит (за кількістю проданих одиниць та доходом)? Чи є товари зі збитковою динамікою? (Which products are in the highest demand (based on the number of units sold and revenue)? Are there any products with declining performance?)
+   
+5. Як часто клієнти повторно здійснюють покупки? Який відсоток доходу приносить постійна клієнтська база? (How often do customers make repeat purchases? What percentage of revenue comes from the loyal customer base?)
+
+**4 questions for the CMO**
+1. Які категорії продуктів або товари є найпопулярнішими серед клієнтів у різних країнах? Як можна підсилити їхнє просування? (Which product categories or items are the most popular among customers in different countries? How can their promotion be enhanced?)
+   
+2. Чи є кореляція між датою рахунка (InvoiceDate) і обсягами продажів? Наприклад, які дні чи місяці найбільш активні? (Is there a correlation between the invoice date (InvoiceDate) and sales volumes? For example, which days or months are the most active?)
+   
+3. Як виглядає розподіл клієнтів за країнами? Чи можна розробити цільові маркетингові кампанії для окремих регіонів? (What does the distribution of customers across countries look like? Can targeted marketing campaigns be developed for specific regions?)
+   
+4. Які клієнти приносять найбільший дохід? Чи можна виділити групу ключових клієнтів для таргетованих маркетингових акцій? (Which customers generate the highest revenue? Can a group of key customers be identified for targeted marketing efforts?)
+
 ## Task 2: Choosing the Right Visuals
 
 ## Task 3: Creating Effective Visuals
