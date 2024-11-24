@@ -8,6 +8,7 @@
   - [Here is your task](#here-is-your-task)
   - [4 questions for the CEO and 4 questions for the CMO](#4-questions-for-the-ceo-and-4-questions-for-the-cmo)
 - [Task 2: Choosing the Right Visuals](#task-2-choosing-the-right-visuals)
+  - [Task Overview](#task-overview)
 - [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
 - [Task 4: Communicating Insights and Analysis](#task-4-communicating-insights-and-analysis)
 
@@ -57,6 +58,11 @@ Certificate IN PROGRESS
 4. Які клієнти приносять найбільший дохід? Чи можна виділити групу ключових клієнтів для таргетованих маркетингових акцій? (Which customers generate the highest revenue? Can a group of key customers be identified for targeted marketing efforts?)
 
 ## Task 2: Choosing the Right Visuals
+
+### Task Overview
+
+Ця частина курса буде присвячена візульаним засобам для ефективної передачі інформації. Як головна мета, це навчитись пояснювати дані та ідеї найпростішим способом для легшого розуміння для будь-якої групі осіб.
+
 
 ## Task 3: Creating Effective Visuals
 
