@@ -11,6 +11,7 @@
   - [Task Overview](#task-overview)
   - [Background information about the task](#Background-information-about-the-task)
   - [Task](#task)
+  - [Questions](#questions)
 - [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
 - [Task 4: Communicating Insights and Analysis](#task-4-communicating-insights-and-analysis)
 
