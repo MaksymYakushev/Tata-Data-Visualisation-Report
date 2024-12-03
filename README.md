@@ -4,15 +4,17 @@
 
 ## Table of Contents
 - [Task 1: Framing the Business Scenario](#task-1-framing-the-business-scenario)
-  - [Background information about the task](#Background-information-about-the-task)
-  - [Task](#task)
+  - [Background information about the task 1](#Background-information-about-the-task-1)
+  - [Task 1](#task-1)
   - [4 questions for the CEO and 4 questions for the CMO](#4-questions-for-the-ceo-and-4-questions-for-the-cmo)
 - [Task 2: Choosing the Right Visuals](#task-2-choosing-the-right-visuals)
-  - [Task Overview](#task-overview)
-  - [Background information about the task](#Background-information-about-the-task)
-  - [Task](#task)
+  - [Task 2 Overview](#task-2-overview)
+  - [Background information about the task 2](#Background-information-about-the-task-2)
+  - [Task 2](#task-2)
   - [Questions](#questions)
 - [Task 3: Creating Effective Visuals](#task-3-creating-effective-visuals)
+  - [Task 3 Overview](#task-3-overview)
+  - [Background information about the task 3](#Background-information-about-the-task-3)
 - [Task 4: Communicating Insights and Analysis](#task-4-communicating-insights-and-analysis)
 
 
@@ -22,7 +24,7 @@ Certificate IN PROGRESS
 
 ## Task 1: Framing the Business Scenario
 
-### Background information about the task
+### Background information about the task 1
 
 Онлайн-рітейл магазин "найняв" мене як консультанта для огляду їхніх даних та надання цінних інсайтів, які можуть бути корисними для CEO та CMO бізнесу. Бізнес працює добре, і керівництво хоче проаналізувати основні чинники, що сприяють доходу, щоб стратегічно спланувати наступний рік.
 
@@ -30,7 +32,7 @@ Certificate IN PROGRESS
 
 Заплановано зустріч із CEO та CMO наступного місяця, і вам потрібно підготувати відповідні аналітичні дані та інсайти, які допоможуть оцінити поточну ефективність бізнесу та запропонувати метрики, що дозволять прийняти рішення щодо розширення.
 
-### Task
+### Task 1
 
 Щоб підготуватися до зустрічі, потрібно скласти питання, які будуть важливими та актуальними для CEO і CMO. Ця підготовка стане керівництвом під час розробки презентації.
 
@@ -62,17 +64,17 @@ Certificate IN PROGRESS
 
 ## Task 2: Choosing the Right Visuals
 
-### Task Overview
+### Task 2 Overview
 
 Ця частина курса буде присвячена візульаним засобам для ефективної передачі інформації. Як головна мета, це навчитись пояснювати дані та ідеї найпростішим способом для легшого розуміння для будь-якої групі осіб.
 
-### Background information about the task
+### Background information about the task 2
 
 Потрібно підготувати візуалізації для аналізу метрик онлайн-магазину, які цікавлять CEO та CMO. Для цього потрібно зібрати вимоги та запропонувати тип візуалізації, який найкраще підходить для кожного сценарію. Керівництво компанії хоче зрозуміти, як працює їхній бізнес, і які аспекти є ключовими сильними сторонами компанії. Вони також зосереджені на виявленні можливостей, які сприятимуть зростанню та генеруватимуть більше доходу в майбутньому.  
 
 Крім того, отримаємо кілька запитів на візуалізації від CEO і повинні надати ті, які найкраще пояснюють дані та інсайти у найпростішій формі. Візуалізація повинна належним чином передавати інформацію, яку намагаємося донести. Ця вправа є критично важливою для вищого керівництва, оскільки будь-яке неправильне подання може призвести до передачі хибного повідомлення або прийняття неправильного рішення. Тому повинні переконатися, що для кожного набору даних використовується правильний тип візуалізації.  
 
-### Task
+### Task 2
 
 У цьому завданні потрібно уважно прочитати запитання та зрозуміти бізнес-вимоги. Після того, як все буде зрозумідл, що потрібно з точки зору CEO та CMO, необхідно буде запропонувати ідеальну візуалізацію, яка покаже те, що шукають вищі менеджери в кожному сценарії. Потрібно пам’ятати, що дані можна представити за допомогою різних типів графіків, але вам потрібно вибрати той тип візуалізації, який найкраще передає представлену інформацію.
 
@@ -103,6 +105,12 @@ Certificate IN PROGRESS
 Відповідь: Map chart
 
 ## Task 3: Creating Effective Visuals
+
+### Task 3 Overview
+
+У цьому розділі дослідимо як візуалізувати дані для допомоги керівникам у прийнятті ефективних рішень та як використовувати програмне забезпечення Tableau або Power BI. Крім того буде завдання на побудову візуалізації на основі запитань, які поставили CEO та CMO.
+
+### Background information about the task 3
 
 ## Task 4: Communicating Insights and Analysis
 
