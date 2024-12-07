@@ -199,11 +199,11 @@ CEO та CMO нещодавно зустрілися, щоб остаточно 
 
 **Запитання 1:** 
 
-<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ1.png" width="1000" height="800">   
+<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ1.png" width="8000" height="600">   
 
 **Запитання 2:** 
 
-<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ2.png" width="1000" height="800">  
+<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ2.png" width="800" height="600">  
 
 **Запитання 3:**
 
