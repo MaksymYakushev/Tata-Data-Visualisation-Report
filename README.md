@@ -1,6 +1,6 @@
 # Tata-Data-Visualisation-Report
 
-<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/tata-logo.jpg" width="420" height="200">   
+<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/tata.png" width="420" height="200">   
 
 ## Table of Contents
 - [Task 1: Framing the Business Scenario](#task-1-framing-the-business-scenario)
