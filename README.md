@@ -212,6 +212,14 @@ CEO та CMO нещодавно зустрілися, щоб остаточно 
 **Запитання 4:** 
 
 <img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ4.png" width="800" height="600">  
+
+**Запитання 5:** 
+
+<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ5.png" width="800" height="600">  
+
+**Запитання 6:** 
+
+<img src="https://github.com/MaksymYakushev/Tata-Data-Visualisation-Report/blob/main/Images/DashboardQ6.png" width="800" height="600">  
    
 ## Task 4: Communicating Insights and Analysis
 
